@@ -1,16 +1,12 @@
-## Hi there 👋
+## Cat Pereira
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/catherinepereira)
+[![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)](#)
+[![Python](https://img.shields.io/badge/-Python-000?style=flat&logoColor=ffd343&logo=python)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
-<!--
-**catherinepereira/catherinepereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[cat5.dev](https://cat5.dev)
