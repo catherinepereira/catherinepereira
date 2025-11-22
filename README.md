@@ -1,4 +1,5 @@
-## Cat Pereira
+## Hi, I'm Cat 👋
+
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/catherinepereira)
 [![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
@@ -9,4 +10,6 @@
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
-[cat5.dev](https://cat5.dev)
+Full-stack software engineer, developing the multiplayer game platform [airship.gg](https://airship.gg)
+
+View my portfolio at [cat5.dev](https://cat5.dev)
