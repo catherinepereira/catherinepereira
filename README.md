@@ -14,6 +14,6 @@ Full-stack software engineer, developing the multiplayer game platform [airship.
 
 View my portfolio at [cat5.dev](https://cat5.dev)
 
-Or my ive player count tracker for Airship at [airship.top](https://airship.top)
+Or my live player count tracker for Airship at [airship.top](https://airship.top)
 
 And also my F1-themed guessing web game, F1Guessr, at [f1guessr.com](https://f1guessr.com)
