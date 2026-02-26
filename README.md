@@ -17,6 +17,8 @@ full-stack software engineer
 
 personal projects
 - airship live player count tracker at [airship.top](https://airship.top)
+- f1 driver radio transcriptions at [f1pitwall.vercel.app](https://f1pitwall.vercel.app)
+- audio cleaning and transcription project at [dinscribe](https://github.com/catherinepereira/dinscribe)
 - f1 guessing game at [f1guessr.com](https://f1guessr.com)
 - f1 frame grabber project at [f1_frames](https://github.com/catherinepereira/f1_frames)
 - GPT-2 tokenization algorithm demo at [bpe-visualizer](https://bpe-visualizer.vercel.app)
