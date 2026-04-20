@@ -1,4 +1,4 @@
-## hi, i'm cat! 🏍️
+## hi, i'm cat! ☀️
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/catherinepereira)
 [![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](#)
@@ -13,12 +13,13 @@
 
 full-stack software engineer
 - portfolio at [cat5.dev](https://cat5.dev)
-- currently working at [airship.gg](https://airship.gg) on platform development
+- Currently working on platform service development at [airship.gg](https://airship.gg)
+
 
 personal projects
 - airship live player count tracker at [airship.top](https://airship.top)
 - f1 driver radio transcriptions at [f1pitwall.vercel.app](https://f1pitwall.vercel.app)
 - audio cleaning and transcription project at [dinscribe](https://github.com/catherinepereira/dinscribe)
-- f1 guessing game at [f1guessr.com](https://f1guessr.com)
+- f1-themed geoguessing game at [f1guessr.com](https://f1guessr.com)
 - f1 frame grabber project at [f1_frames](https://github.com/catherinepereira/f1_frames)
 - GPT-2 tokenization algorithm demo at [bpe-visualizer](https://bpe-visualizer.vercel.app)
