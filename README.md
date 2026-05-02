@@ -13,13 +13,15 @@
 
 full-stack software engineer
 - portfolio at [cat5.dev](https://cat5.dev)
-- Currently working on platform service development at [airship.gg](https://airship.gg)
+- formerly worked on full-stack GCP cloud-backed platform service development for [airship.gg](https://airship.gg)
 
-
-personal projects
+ml/cloud projects
 - airship live player count tracker at [airship.top](https://airship.top)
-- f1 driver radio transcriptions at [f1pitwall.vercel.app](https://f1pitwall.vercel.app)
-- audio cleaning and transcription project at [dinscribe](https://github.com/catherinepereira/dinscribe)
-- f1-themed geoguessing game at [f1guessr.com](https://f1guessr.com)
-- f1 frame grabber project at [f1_frames](https://github.com/catherinepereira/f1_frames)
+- audio cleaning and transcription python package at [dinscribe](https://github.com/catherinepereira/dinscribe)
 - GPT-2 tokenization algorithm demo at [bpe-visualizer](https://bpe-visualizer.vercel.app)
+
+f1 related projects
+- f1-themed geoguessing game at [f1guessr.com](https://f1guessr.com)
+- f1 driver radio transcription viewer at [f1pitwall.vercel.app](https://f1pitwall.vercel.app)
+- full 2025 transcription dataset at [f1-2025-radio-transcriptions](https://github.com/catherinepereira/f1-2025-radio-transcriptions)
+- f1 frame grabber project at [f1_frames](https://github.com/catherinepereira/f1_frames)
