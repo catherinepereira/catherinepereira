@@ -15,10 +15,12 @@ full-stack software engineer
 - portfolio at [cat5.dev](https://cat5.dev)
 - formerly worked on full-stack GCP cloud-backed platform service development for [airship.gg](https://airship.gg)
 
-ml/cloud projects
-- airship live player count tracker at [airship.top](https://airship.top)
+personal projects
+- airship live player count tracker at [airship.top](https://github.com/catherinepereira/airship-top-backend)
 - audio cleaning and transcription python package at [dinscribe](https://github.com/catherinepereira/dinscribe)
+- all of the above + diarization python package at [dinnote](https://github.com/catherinepereira/dinnote)
 - GPT-2 tokenization algorithm demo at [bpe-visualizer](https://bpe-visualizer.vercel.app)
+- audio embedding visualizer demo at [soundscape](https://soundscape-cat.vercel.app)
 
 f1 related projects
 - f1-themed geoguessing game at [f1guessr.com](https://f1guessr.com)
