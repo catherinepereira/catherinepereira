@@ -11,19 +11,21 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
 
-full-stack software engineer
-- portfolio at [cat5.dev](https://cat5.dev)
-- formerly worked on full-stack GCP cloud-backed platform service development for [airship.gg](https://airship.gg)
+#### full-stack software engineer working on CV/audio ML applications
+- [cat5.dev](https://cat5.dev)
+- former platform service engineer for [airship.gg](https://airship.gg)
 
-personal projects
-- airship live player count tracker at [airship.top](https://github.com/catherinepereira/airship-top-backend)
-- audio cleaning and transcription python package at [dinscribe](https://github.com/catherinepereira/dinscribe)
-- all of the above + diarization python package at [dinnote](https://github.com/catherinepereira/dinnote)
-- GPT-2 tokenization algorithm demo at [bpe-visualizer](https://bpe-visualizer.vercel.app)
-- audio embedding visualizer demo at [soundscape](https://soundscape-cat.vercel.app)
-
-f1 related projects
-- f1-themed geoguessing game at [f1guessr.com](https://f1guessr.com)
-- f1 driver radio transcription viewer at [f1pitwall.vercel.app](https://f1pitwall.vercel.app)
-- full 2025 transcription dataset at [f1-2025-radio-transcriptions](https://github.com/catherinepereira/f1-2025-radio-transcriptions)
-- f1 frame grabber project at [f1_frames](https://github.com/catherinepereira/f1_frames)
+| projects! |  |
+|---------|-------------|
+| 🤟 [openhand](https://github.com/catherinepereira/openhand) | ASL computer vision models |
+| 🎬 captionaut | video caption generation for content creators (WIP) |
+| 🚀 [airship.top](https://github.com/catherinepereira/airship-top-backend) | live player count tracker |
+| 🎵 [dinscribe](https://github.com/catherinepereira/dinscribe) | audio cleaning + transcription python package |
+| 🙆 [dinnote](https://github.com/catherinepereira/dinnote) | audio cleaning + transcription + diarization python package |
+| 💬 [prompt2dataset](https://github.com/catherinepereira/prompt2dataset) | LLM to web query for rapid dataset generation |
+| 🏎️ [F1Guessr](https://f1guessr.com) | f1-themed geoguessing game |
+| 🎧 [F1 Pit Wall](https://f1pitwall.vercel.app) | f1 driver radio transcription viewer |
+| 🧩 [bpe-visualizer](https://bpe-visualizer.vercel.app) | GPT-2 tokenization algorithm demo |
+| ☁️ [soundscape](https://soundscape-cat.vercel.app) | FMA audio embedding visualizer demo |
+| 📦 [f1-2025-radio-transcriptions](https://github.com/catherinepereira/f1-2025-radio-transcriptions) | my full 2025 radio transcription dataset |
+| 📸 [f1_frames](https://github.com/catherinepereira/f1_frames) | f1 highlights frame grabber project |
