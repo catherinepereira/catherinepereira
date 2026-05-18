@@ -17,15 +17,17 @@
 
 | projects! |  |
 |---------|-------------|
-| 🤟 [openhand](https://github.com/catherinepereira/openhand) | ASL computer vision models |
-| 🎬 captionaut | video caption generation for content creators (WIP) |
+| 🚜 tractor (WIP) | model efficiency evaluation tool |
+| ♾️ recall (WIP) | local RAG-based study and quiz tool |
+| 🤟 [openhand](https://github.com/catherinepereira/openhand) | ASL computer vision models with inference on live video feed |
+| 🎬 [captionaut](https://github.com/catherinepereira/captionaut) | video caption generation for content creators |
 | 🚀 [airship.top](https://github.com/catherinepereira/airship-top-backend) | live player count tracker |
-| 🎵 [dinscribe](https://github.com/catherinepereira/dinscribe) | audio cleaning + transcription python package |
-| 🙆 [dinnote](https://github.com/catherinepereira/dinnote) | audio cleaning + transcription + diarization python package |
-| 💬 [prompt2dataset](https://github.com/catherinepereira/prompt2dataset) | LLM to web query for rapid dataset generation |
+| 🎵 [dinscribe](https://pypi.org/project/dinscribe/) (PyPI) | audio cleaning + transcription |
+| 🙆 [dinnote](https://pypi.org/project/dinnote/) (PyPI) | audio cleaning + transcription + diarization |
+| 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) (PyPI) | LLM to web query for rapid dataset generation |
 | 🏎️ [F1Guessr](https://f1guessr.com) | f1-themed geoguessing game |
 | 🎧 [F1 Pit Wall](https://f1pitwall.vercel.app) | f1 driver radio transcription viewer |
-| 🧩 [bpe-visualizer](https://bpe-visualizer.vercel.app) | GPT-2 tokenization algorithm demo |
-| ☁️ [soundscape](https://soundscape-cat.vercel.app) | FMA audio embedding visualizer demo |
+| 🧩 [bpe-visualizer](https://bpe-visualizer.vercel.app) | GPT-2 tokenization algorithm visualization tool |
+| ☁️ [soundscape](https://soundscape-cat.vercel.app) | FMA audio embedding visualizer |
 | 📦 [f1-2025-radio-transcriptions](https://github.com/catherinepereira/f1-2025-radio-transcriptions) | my full 2025 radio transcription dataset |
 | 📸 [f1_frames](https://github.com/catherinepereira/f1_frames) | f1 highlights frame grabber project |
