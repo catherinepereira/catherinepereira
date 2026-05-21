@@ -26,6 +26,7 @@
 
 | learning demos! |  |
 |---------|-------------|
+| 🕰️ [CNN Architecture Comparison](https://cnn-architecture-comparison.vercel.app) | comparison of the major CNN architectures over the past few decades |
 | 🖼️ [CNN Visualizer](https://cnn-visualizer-cat.vercel.app) | demo of pure PyTorch CNN trained on CIFAR |
 | 🖍️ [CNN Playground](https://cnn-playground.vercel.app) | entirely client-sided CNN single and multi-layer kernel playground |
 | 🧩 [BPE Playground](https://bpe-playground.vercel.app) | GPT-2 tokenization algorithm playground |
