@@ -17,16 +17,17 @@
 |---------|-------------|
 | 🚜 tractor (WIP) | model efficiency evaluation tool |
 | ♾️ recall (WIP) | local RAG-based study and quiz tool |
-| 🤟 [openhand](https://github.com/catherinepereira/openhand) | ASL computer vision models with inference on live video feed |
+| 🤟 [openhand](https://openhand-asl.vercel.app) | ASL computer vision model training and inference on live video feed |
 | 🎬 [captionaut](https://github.com/catherinepereira/captionaut) | video caption generation for content creators |
 | 🚀 [airship.top](https://github.com/catherinepereira/airship-top-backend) | live player count tracker |
 | 🏎️ [F1Guessr](https://f1guessr.com) | f1-themed geoguessing game |
 | 🎧 [F1 Pit Wall](https://f1pitwall.vercel.app) | f1 driver radio transcription viewer |
 | ☁️ [Soundscape](https://soundscape-cat.vercel.app) | FMA audio embedding visualizer |
 
-| learning demos! |  |
+| OS learning demos! |  |
 |---------|-------------|
-| 🕰️ [CNN Architecture Comparison](https://cnn-architecture-comparison.vercel.app) | comparison of the major CNN architectures over the past few decades |
+| 🔬 [CV Interpretability Explorer](https://cv-interpretability.vercel.app) | comparison of 5 CV interpretability methods across CNN/ResNet/ViT models |
+| 🕰️ [CNN Architecture Comparison](https://cnn-architecture-comparison.vercel.app) | comparison of the major 6 CNN architectures of the past few decades |
 | 🖼️ [CNN Visualizer](https://cnn-visualizer-cat.vercel.app) | demo of pure PyTorch CNN trained on CIFAR |
 | 🖍️ [CNN Playground](https://cnn-playground.vercel.app) | entirely client-sided CNN single and multi-layer kernel playground |
 | 🧩 [BPE Playground](https://bpe-playground.vercel.app) | GPT-2 tokenization algorithm playground |
