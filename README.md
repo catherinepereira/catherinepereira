@@ -9,14 +9,12 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
-#### full-stack software engineer working on CV/audio ML applications
+#### full stack software engineer building CV applications
 - [cat5.dev](https://cat5.dev)
-- former platform service engineer for [airship.gg](https://airship.gg)
+- former full stack platform service engineer for [easy.gg](https://easy.gg)
 
 | projects! |  |
 |---------|-------------|
-| 🚜 tractor (WIP) | model efficiency evaluation tool |
-| ♾️ recall (WIP) | local RAG-based study and quiz tool |
 | 🤟 [openhand](https://openhand-asl.vercel.app) | ASL computer vision model training and inference on live video feed |
 | 🎬 [captionaut](https://github.com/catherinepereira/captionaut) | video caption generation for content creators |
 | 🚀 [airship.top](https://github.com/catherinepereira/airship-top-backend) | live player count tracker |
