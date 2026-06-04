@@ -1,4 +1,4 @@
-## hi, i'm cat! ☀️
+## Hi, I'm Cat! ☀️
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
@@ -9,13 +9,15 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
-#### full stack software engineer building CV applications
-- [cat5.dev](https://cat5.dev)
-- former full stack platform service engineer for [easy.gg](https://easy.gg)
+#### Full-stack software engineer building CV applications.
+Portfolio at [cat5.dev](https://cat5.dev)
+
+Former full-stack platform service engineer for [easy.gg](https://easy.gg)
 
 | larger projects |  |
 |---------|-------------|
-| 📚 rag library (WIP) | cozy local RAG study tool for data synthesis |
+| 🦦 otterwatch (WIP) | sea otter cam detection project... |
+| 📚 RAGical library (WIP) | cozy local RAG study tool for close reading and note taking |
 | 🤟 [openhand](https://openhand-asl.vercel.app) | ASL computer vision model training and inference on live video feed |
 | 👩‍🚀 [captionaut](https://github.com/catherinepereira/captionaut) | video caption generation for content creators |
 | 🚀 [airship.top](https://github.com/catherinepereira/airship-top-backend) | live player count tracker |
@@ -40,6 +42,7 @@
 
 | [python packages](https://github.com/stars/catherinepereira/lists/python-packages) |  |
 |---------|-------------|
+| ✈️ detstream (WIP) | configurable, modular framework for live stream object detection |
 | 🎵 [dinscribe](https://pypi.org/project/dinscribe/) | audio cleaning + transcription |
 | 🙆 [dinnote](https://pypi.org/project/dinnote/) | audio cleaning + transcription + diarization |
 | 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) | LLM to web query for rapid dataset generation |
