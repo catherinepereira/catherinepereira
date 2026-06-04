@@ -13,7 +13,7 @@
 - [cat5.dev](https://cat5.dev)
 - former full stack platform service engineer for [easy.gg](https://easy.gg)
 
-| projects! |  |
+| larger projects |  |
 |---------|-------------|
 | 📚 rag library (WIP) | cozy local RAG study tool for data synthesis |
 | 🤟 [openhand](https://openhand-asl.vercel.app) | ASL computer vision model training and inference on live video feed |
@@ -24,13 +24,13 @@
 | ☁️ [Soundscape](https://soundscape-cat.vercel.app) | FMA audio embedding visualizer |
 
 
-| OS learning demos! | |
+| [explorables](https://github.com/stars/catherinepereira/lists/explorables) | |
 |---------|-------------|
 | 🦴 Backbone Benchmark Bracket (WIP) | benchmark of various CV backbone architectures using equivalent hyperparameters |
 | 🍎 CV Segmentation Playground (WIP) | computer vision segmentation playground |
 | 🔍 CV Detection Playground (WIP) | computer vision detection playground |
-| 👀 Vision Transformer (ViT) Visualizer (WIP) | demo explanation of vision transformer architecture |
-| 🏁 Transformer Visualizer (WIP) | demo explanation of transformer architecture |
+| 👀 ViT Playground (WIP) | interactive playground to explain vision transformer architecture |
+| 🏁 Transformer Playground (WIP) | interactive playground to explain transformer architecture |
 | 🔬 [CV Interpretability Explorer](https://cv-interpretability.vercel.app) | comparison of 5 CV interpretability methods across CNN/ResNet/ViT models |
 | 🕰️ [CNN Architecture Comparison](https://cnn-architecture-comparison.vercel.app) | comparison of the major 6 CNN architectures of the past few decades |
 | 🖼️ [CNN Visualizer](https://cnn-visualizer-cat.vercel.app) | demo of a pure PyTorch CNN trained on CIFAR |
@@ -38,7 +38,7 @@
 | 🧩 [BPE Playground](https://bpe-playground.vercel.app) | GPT-2 tokenization algorithm playground |
 
 
-| packages on PyPI! |  |
+| [python packages](https://github.com/stars/catherinepereira/lists/python-packages) |  |
 |---------|-------------|
 | 🎵 [dinscribe](https://pypi.org/project/dinscribe/) | audio cleaning + transcription |
 | 🙆 [dinnote](https://pypi.org/project/dinnote/) | audio cleaning + transcription + diarization |
