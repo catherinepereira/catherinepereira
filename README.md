@@ -16,7 +16,7 @@ Former full-stack platform service engineer for [easy.gg](https://easy.gg)
 
 | larger projects |  |
 |---------|-------------|
-| 🦦 otterwatch (WIP) | sea otter cam detection project... |
+| 🦦 [otterwatch](https://otterwatch.vercel.app) | sea otter cam CV detection project |
 | 📚 RAGical library (WIP) | cozy local RAG study tool for close reading and note taking |
 | 🤟 [openhand](https://openhand-asl.vercel.app) | ASL computer vision model training and inference on live video feed |
 | 👩‍🚀 [captionaut](https://github.com/catherinepereira/captionaut) | video caption generation for content creators |
