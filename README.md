@@ -33,7 +33,7 @@ I enjoy building tools to streamline ML application production and interactive w
 - 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) - LLM to web query, prompt engineering for rapid dataset generation
 - 🎵 [dinscribe](https://pypi.org/project/dinscribe/) - clean and transcribe audio with a single CLI command
 - 🙆 [dinnote](https://pypi.org/project/dinnote/) - clean, transcribe, and diarize audio with a single CLI command
-- ✈️ [detstream](https://pypi.org/project/detstream/) - easy, modular configuration of live stream object detection
+- 🛰️ [detstream](https://pypi.org/project/detstream/) - easy, modular configuration of live stream object detection
 
 
 ### [Explorables](https://github.com/stars/catherinepereira/lists/explorables)
@@ -44,7 +44,7 @@ I enjoy building tools to streamline ML application production and interactive w
 - 🖼️ [CNN Visualizer](https://cnn-visualizer-cat.vercel.app) - demo of a PyTorch CNN trained on CIFAR
 - 🕰️ [CNN Architecture Comparison](https://cnn-architecture-comparison.vercel.app) - comparison of the major 6 CNN architectures of the past few decades
 - 🔬 [CV Interpretability Explorer](https://cv-interpretability.vercel.app) - comparison of 5 CV interpretability methods across CNN/ResNet/ViT models
-- ☁️ Embeddings (WIP) - FMA audio embedding visualizer
+- ☁️ Embeddings Playground (WIP) - FMA audio embedding visualizer
 - 🏁 Transformer Playground (WIP) - interactive playground to explain transformer architecture
 - 👀 ViT Playground (WIP) - interactive playground to explain vision transformer architecture
 - 🔍 CV Detection Playground (WIP) - computer vision detection playground
