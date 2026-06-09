@@ -25,7 +25,7 @@ I enjoy building tools to streamline ML application production and interactive w
 - 🚀 [airship.top](https://github.com/catherinepereira/airship-top-backend) - live player count tracker
 - 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game
 - 🎧 [F1 Pit Wall](https://f1pitwall.vercel.app) - f1 driver radio transcription viewer
-- ✉️ [cli-cards](https://cli-cards-web.vercel.app) - design terminal-style usage cards and export them as PNGs
+- ✉️ [cli-cards](https://cli-cards.vercel.app) - design terminal-style usage cards and export them as PNGs
 
 
 ### [Python Packages](https://github.com/stars/catherinepereira/lists/python-packages)
