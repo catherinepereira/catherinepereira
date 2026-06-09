@@ -44,7 +44,7 @@ I enjoy building tools to streamline ML application production and interactive w
 - 🖼️ [CNN Visualizer](https://cnn-visualizer-cat.vercel.app) - demo of a PyTorch CNN trained on CIFAR
 - 🕰️ [CNN Architecture Comparison](https://cnn-architecture-comparison.vercel.app) - comparison of the major 6 CNN architectures of the past few decades
 - 🔬 [CV Interpretability Explorer](https://cv-interpretability.vercel.app) - comparison of 5 CV interpretability methods across CNN/ResNet/ViT models
-- ☁️ Embeddings Playground (WIP) - FMA audio embedding visualizer
+- 📍 [Embeddings Playground](https://embeddings-playground-cat.vercel.app) - FMA audio CLAP embedding visualizer with UMAP
 - 🏁 Transformer Playground (WIP) - interactive playground to explain transformer architecture
 - 👀 ViT Playground (WIP) - interactive playground to explain vision transformer architecture
 - 🔍 CV Detection Playground (WIP) - computer vision detection playground
