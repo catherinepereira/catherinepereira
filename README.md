@@ -25,6 +25,7 @@ I enjoy building tools to streamline ML application production and interactive w
 - 🚀 [airship.top](https://github.com/catherinepereira/airship-top-backend) - live player count tracker
 - 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game
 - 🎧 [F1 Pit Wall](https://f1pitwall.vercel.app) - f1 driver radio transcription viewer
+- ✉️ [cli-cards](https://cli-cards-web.vercel.app) - design terminal-style usage cards and export them as PNGs
 
 
 ### [Python Packages](https://github.com/stars/catherinepereira/lists/python-packages)
@@ -34,6 +35,7 @@ I enjoy building tools to streamline ML application production and interactive w
 - 🎵 [dinscribe](https://pypi.org/project/dinscribe/) - clean and transcribe audio with a single CLI command
 - 🙆 [dinnote](https://pypi.org/project/dinnote/) - clean, transcribe, and diarize audio with a single CLI command
 - 🛰️ [detstream](https://pypi.org/project/detstream/) - easy, modular configuration of live stream object detection
+- 🐥 [doctape](https://pypi.org/project/doctape/) - convert large PDFs to Markdown with docling, windowed and resumable
 
 
 ### [Explorables](https://github.com/stars/catherinepereira/lists/explorables)
