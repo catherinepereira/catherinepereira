@@ -18,7 +18,7 @@ I enjoy building tools to streamline ML application production and interactive w
 
 ### Projects
 ---
-- 📚 RAGical library (WIP) - cozy local RAG study tool for close reading and note taking
+- 🔮 Ragical library (WIP) - cozy local RAG study tool for close reading and note taking
 - 🦦 [otterwatch](https://otterwatch.vercel.app) - live sea otter cam CV detection
 - 🤟 [openhand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
 - 👩‍🚀 [captionaut](https://github.com/catherinepereira/captionaut) - video caption generation for content creators
