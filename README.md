@@ -18,10 +18,10 @@ I enjoy building tools to streamline ML application production and interactive w
 
 ### Projects
 ---
-- 🔮 Ragical library (WIP) - cozy local RAG study tool for close reading and note taking
-- 🦦 [otterwatch](https://otterwatch.vercel.app) - live sea otter cam CV detection
-- 🤟 [openhand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
-- 👩‍🚀 [captionaut](https://github.com/catherinepereira/captionaut) - video caption generation for content creators
+- 🔮 [Ragical Library](https://github.com/catherinepereira/ragical-library) (WIP) - cozy local RAG study tool for close reading and note taking
+- 🦦 [Otterwatch](https://otterwatch.vercel.app) - live sea otter cam CV detection
+- 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
+- 👩‍🚀 [Captionaut](https://github.com/catherinepereira/captionaut) - video caption generation for content creators
 - 🚀 [airship.top](https://github.com/catherinepereira/airship-top-backend) - live player count tracker
 - 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game
 - 🎧 [F1 Pit Wall](https://f1pitwall.vercel.app) - f1 driver radio transcription viewer
