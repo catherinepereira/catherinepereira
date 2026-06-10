@@ -28,7 +28,7 @@ I enjoy building tools to streamline ML application production and interactive w
 - ✉️ [cli-cards](https://cli-cards.vercel.app) - design terminal-style usage cards and export them as PNGs
 
 
-### [Python Packages](https://github.com/stars/catherinepereira/lists/python-packages)
+### Packages
 --- 
 
 - 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) - LLM to web query, prompt engineering for rapid dataset generation
