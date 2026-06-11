@@ -5,7 +5,7 @@ Portfolio at [cat5.dev](https://cat5.dev)
 
 Former full-stack platform service engineer for [easy.gg](https://easy.gg)
 
-I enjoy building tools to streamline ML application production and interactive webpages (explorables) to teach ML concepts.
+I enjoy building tools to streamline CV application production and explorables to teach CV history and foundational concepts at [explorable.cv](https://explorable.cv)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
@@ -38,14 +38,10 @@ I enjoy building tools to streamline ML application production and interactive w
 - 🐥 [doctape](https://pypi.org/project/doctape/) - convert large PDFs to Markdown with docling, windowed and resumable
 
 
-### [Explorables](https://github.com/stars/catherinepereira/lists/explorables)
+### Explorables at [explorable.cv](https://explorable.cv)
 ---
-
-- 🧩 [BPE Playground](https://bpe-playground.vercel.app) - GPT-2 tokenization algorithm playground
-- 🖍️ [CNN Playground](https://cnn-playground.vercel.app) - entirely client-sided CNN single and multi-layer kernel playground
-- 🖼️ [CNN Visualizer](https://cnn-visualizer-cat.vercel.app) - demo of a PyTorch CNN trained on CIFAR
-- 🕰️ [CNN Architecture Comparison](https://cnn-architecture-comparison.vercel.app) - comparison of the major 6 CNN architectures of the past few decades
-- 🔬 [CV Interpretability Explorer](https://cv-interpretability.vercel.app) - comparison of 5 CV interpretability methods across CNN/ResNet/ViT models
-- 📍 [Embeddings Playground](https://embeddings-playground-cat.vercel.app) - FMA audio CLAP embedding visualizer with UMAP
-- 🤖 [Transformer Playground](https://transformer-playground.vercel.app) - interactive playground to explain transformer architecture
-
+- Main repo at [explorablecv](https://github.com/catherinepereira/explorablecv)
+- 🖍️ [CNN Playground](https://explorables.cv/cnn-playground)
+- 🖼️ [CNN Visualizer](https://explorables.cv/cnn-visualizer)
+- 🕰️ [CNN Architecture Comparison](https://explorables.cv/cnn-architecture-comparison)
+- 🔬 [CV Interpretability Explorer](https://explorables.cv/cv-interpretability)
