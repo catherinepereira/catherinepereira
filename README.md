@@ -5,7 +5,7 @@ Portfolio at [cat5.dev](https://cat5.dev)
 
 Former full-stack platform service engineer for [easy.gg](https://easy.gg)
 
-I enjoy building tools to streamline CV application production and explorables to teach CV history and foundational concepts at [explorable.cv](https://explorable.cv)
+Explorables to teach CV history and foundational concepts at [explorable.cv](https://explorable.cv)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
