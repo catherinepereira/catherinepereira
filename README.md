@@ -22,7 +22,7 @@ Explorables to teach CV history and foundational concepts at [explorable.cv](htt
 - 🦦 [Otterwatch](https://otterwatch.vercel.app) - live sea otter cam CV detection
 - 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
 - 👩‍🚀 [Captionaut](https://github.com/catherinepereira/captionaut) - video caption generation for content creators
-- 🚀 [airship.top](https://github.com/catherinepereira/airship-top-backend) - live player count tracker
+- 🚀 [airship.top](https://github.com/catherinepereira/airship-top) - live player count tracker
 - 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game
 - 🎧 [F1 Pit Wall](https://f1pitwall.vercel.app) - f1 driver radio transcription viewer
 - ✉️ [cli-cards](https://cli-cards.vercel.app) - design terminal-style usage cards and export them as PNGs
@@ -31,6 +31,7 @@ Explorables to teach CV history and foundational concepts at [explorable.cv](htt
 ### Packages
 --- 
 
+- 🚂 [studyengine](https://pypi.org/project/studyengine/) - retrieval-augmented study engine with document parsing, flashcard and quiz generation, and close reading tools
 - 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) - LLM to web query, prompt engineering for rapid dataset generation
 - 🎵 [dinscribe](https://pypi.org/project/dinscribe/) - clean and transcribe audio with a single CLI command
 - 🙆 [dinnote](https://pypi.org/project/dinnote/) - clean, transcribe, and diarize audio with a single CLI command
