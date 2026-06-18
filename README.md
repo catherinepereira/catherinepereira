@@ -18,7 +18,7 @@ Explorables to teach CV history and foundational concepts at [explorable.cv](htt
 
 ### Projects
 ---
-- 🔮 [Ragical Library](https://github.com/catherinepereira/ragical-library) (WIP) - cozy local RAG study tool for close reading and note taking
+
 - 🦦 [Otterwatch](https://otterwatch.vercel.app) - live sea otter cam CV detection
 - 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
 - 👩‍🚀 [Captionaut](https://github.com/catherinepereira/captionaut) - video caption generation for content creators
@@ -31,12 +31,11 @@ Explorables to teach CV history and foundational concepts at [explorable.cv](htt
 ### Packages
 --- 
 
-- 🚂 [studyengine](https://pypi.org/project/studyengine/) - retrieval-augmented study engine with document parsing, flashcard and quiz generation, and close reading tools
 - 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) - LLM to web query, prompt engineering for rapid dataset generation
 - 🎵 [dinscribe](https://pypi.org/project/dinscribe/) - clean and transcribe audio with a single CLI command
 - 🙆 [dinnote](https://pypi.org/project/dinnote/) - clean, transcribe, and diarize audio with a single CLI command
 - 🛰️ [detstream](https://pypi.org/project/detstream/) - easy, modular configuration of live stream object detection
-- 🐥 [doctape](https://pypi.org/project/doctape/) - convert large PDFs to Markdown with docling, windowed and resumable
+- 🐥 [doctape](https://pypi.org/project/doctape/) - convert large PDFs to markdown and process with docling
 
 
 ### Explorables at [explorable.cv](https://explorable.cv)
@@ -46,3 +45,4 @@ Explorables to teach CV history and foundational concepts at [explorable.cv](htt
 - 🖼️ [CNN Visualizer](https://explorables.cv/cnn-visualizer)
 - 🕰️ [CNN Architecture Comparison](https://explorables.cv/cnn-architecture-comparison)
 - 🔬 [CV Interpretability Explorer](https://explorables.cv/cv-interpretability)
+- 👀 [ViT Playground](https://explorables.cv/vit-playground)
