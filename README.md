@@ -19,7 +19,6 @@ Explorables to teach CV history and foundational concepts at [explorable.cv](htt
 ### Projects
 ---
 
-- 🦦 [Otterwatch](https://otterwatch.vercel.app) - live sea otter cam CV detection
 - 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
 - 👩‍🚀 [Captionaut](https://github.com/catherinepereira/captionaut) - video caption generation for content creators
 - 🚀 [airship.top](https://github.com/catherinepereira/airship-top) - live player count tracker
