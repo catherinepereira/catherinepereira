@@ -16,34 +16,29 @@ Explorables to teach CV history and foundational concepts at [explorable.cv](htt
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 
-### Projects
+### CV Projects
 ---
 
 - 🌟 [Sign Cards](https://sign-cards.vercel.app) - ASL fingerspelling learning game
 - 🖍️ [airdraw](https://airdraw-cat.vercel.app) - MediaPipe digital whiteboard
 - 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
-- 👩‍🚀 [Captionaut](https://github.com/catherinepereira/captionaut) - video caption generation for content creators built on [dinnote](https://pypi.org/project/dinnote/)
-- 🚀 [airship.top](https://github.com/catherinepereira/airship-top) - live player count tracker
 - 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game
-- 🎧 [F1 Pit Wall](https://f1pitwall.vercel.app) - f1 driver radio transcription viewer built on [dinnote](https://pypi.org/project/dinnote/)
-- ✉️ [cli-cards](https://cli-cards.vercel.app) - design terminal-style usage cards and export them as PNGs built on [cli-cards](https://www.npmjs.com/package/cli-cards)
-
-
-### Packages
---- 
-
-- 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) - CLI for plan-english prompt to LLM to web query for rapid dataset generation
-- 🎵 [dinscribe](https://pypi.org/project/dinscribe/) - CLI for cleaning and transcribing audio files
-- 🙆 [dinnote](https://pypi.org/project/dinnote/) - CLI for cleaning, transcribing, and diarizing audio files
-- 🛰️ [detstream](https://pypi.org/project/detstream/) - easy, modular configuration of live stream object detection
-- 🐥 [doctape](https://pypi.org/project/doctape/) - convert large PDFs to markdown and process with docling
-
 
 ### Explorables at [explorable.cv](https://explorable.cv)
 ---
+
 - Main repo at [explorablecv](https://github.com/catherinepereira/explorablecv) and [explorablecv-models](https://github.com/catherinepereira/explorablecv-models) 
 - 🖨️ [CNN Playground](https://explorables.cv/cnn-playground)
 - 🖼️ [CNN Visualizer](https://explorables.cv/cnn-visualizer)
 - 🕰️ [CNN Architecture Comparison](https://explorables.cv/cnn-architecture-comparison)
 - 🔬 [CV Interpretability Explorer](https://explorables.cv/cv-interpretability)
 - 👀 [ViT Playground](https://explorables.cv/vit-playground)
+
+### Packages
+--- 
+
+- 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) - CLI for plan-english prompt to LLM to web query for rapid dataset generation
+- 🛰️ [detstream](https://pypi.org/project/detstream/) - easy, modular configuration of live stream object detection
+- 🎵 [dinscribe](https://pypi.org/project/dinscribe/) - CLI for cleaning and transcribing audio files
+- 🙆 [dinnote](https://pypi.org/project/dinnote/) - CLI for cleaning, transcribing, and diarizing audio files
+- 🐥 [doctape](https://pypi.org/project/doctape/) - convert large PDFs to markdown and process with docling
