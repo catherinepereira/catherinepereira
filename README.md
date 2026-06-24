@@ -19,7 +19,7 @@ Explorables to teach CV history and foundational concepts at [explorable.cv](htt
 ### Projects
 ---
 
-- 🌟 [Sign Quest](https://sign-quest.vercel.app) - ASL fingerspelling learning game
+- 🌟 [Sign Cards](https://sign-cards.vercel.app) - ASL fingerspelling learning game
 - 🖍️ [airdraw](https://airdraw-cat.vercel.app) - MediaPipe digital whiteboard
 - 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
 - 👩‍🚀 [Captionaut](https://github.com/catherinepereira/captionaut) - video caption generation for content creators built on [dinnote](https://pypi.org/project/dinnote/)
