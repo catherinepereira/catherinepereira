@@ -19,28 +19,30 @@ Explorables to teach CV history and foundational concepts at [explorable.cv](htt
 ### Projects
 ---
 
+- 🌟 [Sign Quest](https://sign-quest.vercel.app) - ASL fingerspelling learning game
+- 🖍️ [airdraw](https://airdraw-cat.vercel.app) - MediaPipe digital whiteboard
 - 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
-- 👩‍🚀 [Captionaut](https://github.com/catherinepereira/captionaut) - video caption generation for content creators
+- 👩‍🚀 [Captionaut](https://github.com/catherinepereira/captionaut) - video caption generation for content creators built on [dinnote](https://pypi.org/project/dinnote/)
 - 🚀 [airship.top](https://github.com/catherinepereira/airship-top) - live player count tracker
 - 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game
-- 🎧 [F1 Pit Wall](https://f1pitwall.vercel.app) - f1 driver radio transcription viewer
-- ✉️ [cli-cards](https://cli-cards.vercel.app) - design terminal-style usage cards and export them as PNGs
+- 🎧 [F1 Pit Wall](https://f1pitwall.vercel.app) - f1 driver radio transcription viewer built on [dinnote](https://pypi.org/project/dinnote/)
+- ✉️ [cli-cards](https://cli-cards.vercel.app) - design terminal-style usage cards and export them as PNGs built on [cli-cards](https://www.npmjs.com/package/cli-cards)
 
 
 ### Packages
 --- 
 
-- 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) - LLM to web query, prompt engineering for rapid dataset generation
-- 🎵 [dinscribe](https://pypi.org/project/dinscribe/) - clean and transcribe audio with a single CLI command
-- 🙆 [dinnote](https://pypi.org/project/dinnote/) - clean, transcribe, and diarize audio with a single CLI command
+- 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) - CLI for plan-english prompt to LLM to web query for rapid dataset generation
+- 🎵 [dinscribe](https://pypi.org/project/dinscribe/) - CLI for cleaning and transcribing audio files
+- 🙆 [dinnote](https://pypi.org/project/dinnote/) - CLI for cleaning, transcribing, and diarizing audio files
 - 🛰️ [detstream](https://pypi.org/project/detstream/) - easy, modular configuration of live stream object detection
 - 🐥 [doctape](https://pypi.org/project/doctape/) - convert large PDFs to markdown and process with docling
 
 
 ### Explorables at [explorable.cv](https://explorable.cv)
 ---
-- Main repo at [explorablecv](https://github.com/catherinepereira/explorablecv)
-- 🖍️ [CNN Playground](https://explorables.cv/cnn-playground)
+- Main repo at [explorablecv](https://github.com/catherinepereira/explorablecv) and [explorablecv-models](https://github.com/catherinepereira/explorablecv-models) 
+- 🖨️ [CNN Playground](https://explorables.cv/cnn-playground)
 - 🖼️ [CNN Visualizer](https://explorables.cv/cnn-visualizer)
 - 🕰️ [CNN Architecture Comparison](https://explorables.cv/cnn-architecture-comparison)
 - 🔬 [CV Interpretability Explorer](https://explorables.cv/cv-interpretability)
