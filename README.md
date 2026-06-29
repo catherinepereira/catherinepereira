@@ -14,7 +14,6 @@
 
 - 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game using CV-based data ingestion pipeline (CLIP, YOLO)
 - 🔍 [F1GuessrInterpret](https://interpret.f1guessr.com) - display of Grad-CAM heatmaps of a multi-head classification model for year and track predictions
-- 🔰 [CV2](https://catherinepereira.github.io/cv2) - my personal knowledge graph for all things CV-related
 - 🌟 [Sign Cards](https://sign-cards.vercel.app) - ASL fingerspelling learning game
 - 🖍️ [airdraw](https://airdraw-cat.vercel.app) - MediaPipe digital whiteboard
 - 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
