@@ -32,7 +32,7 @@
 ### Packages
 --- 
 
-- 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) - CLI for plan-english prompt to LLM to web query for rapid dataset generation
+- 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) - CLI for plain-english prompt to LLM to web query for rapid dataset generation
 - 🛰️ [detstream](https://pypi.org/project/detstream/) - easy, modular configuration of live stream object detection
 - 🎵 [dinscribe](https://pypi.org/project/dinscribe/) - CLI for cleaning and transcribing audio files
 - 🙆 [dinnote](https://pypi.org/project/dinnote/) - CLI for cleaning, transcribing, and diarizing audio files
