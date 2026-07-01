@@ -1,4 +1,4 @@
-## Hi, I'm [cat5.dev](https://cat5.dev) ☀️
+## Hi, I'm [catpereira.dev](https://catpereira.dev) ☀️
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
