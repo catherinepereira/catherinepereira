@@ -22,11 +22,11 @@
 ---
 
 - Main repo at [explorablecv](https://github.com/catherinepereira/explorablecv) and [explorablecv-models](https://github.com/catherinepereira/explorablecv-models) 
-- 🖨️ [CNN Playground](https://explorables.cv/cnn-playground)
-- 🖼️ [CNN Visualizer](https://explorables.cv/cnn-visualizer)
-- 🕰️ [CNN Architecture Comparison](https://explorables.cv/cnn-architecture-comparison)
-- 🔬 [CV Interpretability Explorer](https://explorables.cv/cv-interpretability)
-- 👀 [ViT Playground](https://explorables.cv/vit-playground)
+- 🖨️ [CNN Playground](https://explorable.cv/cnn-playground)
+- 🖼️ [CNN Visualizer](https://explorable.cv/cnn-visualizer)
+- 🕰️ [CNN Architecture Comparison](https://explorable.cv/cnn-architecture-comparison)
+- 🔬 [CV Interpretability Explorer](https://explorable.cv/cv-interpretability)
+- 👀 [ViT Playground](https://explorable.cv/vit-playground)
 
 ### Packages
 --- 
