@@ -12,6 +12,7 @@
 ### CV Projects
 ---
 
+- 🤖 [Sorty](https://github.com/catherinepereira/sorty) - dataset generation and cleaning tool with model training and LLM integration
 - 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game using CV-based data ingestion pipeline (CLIP, YOLO)
 - 🔍 [F1GuessrInterpret](https://interpret.f1guessr.com) - display of Grad-CAM heatmaps of a multi-head classification model for year and track predictions
 - 🌟 [Sign Cards](https://sign-cards.vercel.app) - ASL fingerspelling learning game
