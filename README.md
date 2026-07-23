@@ -19,7 +19,13 @@
 - 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
 
 ---
+### Utilities
 
+- 📜 [DarkScrolls](https://github.com/catherinepereira/darkscrolls) - Chrome extension for blocking websites
+- ✉️ [cli-cards](https://cli-cards.vercel.app) - design terminal-style usage cards and export them as PNGs
+- 🧵 [stitchy](https://stitchy.vercel.app) - stitch together images vertically and download
+
+---
 ### Explorables at [explorable.cv](https://explorable.cv)
 - Main repo at [explorablecv](https://github.com/catherinepereira/explorablecv) and [explorablecv-models](https://github.com/catherinepereira/explorablecv-models) 
 - 🖨️ [CNN Playground](https://explorable.cv/cnn-playground)
