@@ -23,7 +23,7 @@
 
 - 📜 [DarkScrolls](https://github.com/catherinepereira/darkscrolls) - Chrome extension for blocking websites
 - ✉️ [cli-cards](https://cli-cards.vercel.app) - design terminal-style usage cards and export them as PNGs
-- 🧵 [stitchy](https://stitchimg.vercel.app) - stitch together images vertically and download
+- 🧵 [stitchimg](https://stitchimg.vercel.app) - stitch together images vertically and download
 
 ---
 ### Explorables at [explorable.cv](https://explorable.cv)
