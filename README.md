@@ -28,7 +28,7 @@
 
 ---
 ### Explorables at [explorable.cv](https://explorable.cv)
-- Main repo at [explorablecv](https://github.com/catherinepereira/explorablecv) and [explorablecv-models](https://github.com/catherinepereira/explorablecv-models) 
+- Main repo at [explorablecv-models](https://github.com/catherinepereira/explorablecv-models) 
 - 🖨️ [CNN Playground](https://explorable.cv/cnn-playground)
 - 🖼️ [CNN Visualizer](https://explorable.cv/cnn-visualizer)
 - 🕰️ [CNN Architecture Comparison](https://explorable.cv/cnn-architecture-comparison)
