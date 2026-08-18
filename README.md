@@ -35,6 +35,7 @@
 - 🔬 [CV Interpretability Explorer](https://explorable.cv/cv-interpretability)
 - 👀 [ViT Playground](https://explorable.cv/vit-playground)
 - 🔍 [Object Detection Playground](https://explorable.cv/cv-detection-playground)
+- 🍎 [Segmentation Playground](https://explorable.cv/cv-segmentation-playground)
 
 --- 
 ### Packages
