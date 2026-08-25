@@ -8,6 +8,9 @@
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+---
+
+I am currently super busy working as a Full Stack Software Engineer II at Neural Earth and continuing my daily self-study of ML/AI, but I occasionally find time to update my projects here!
 
 ---
 ### CV Projects
