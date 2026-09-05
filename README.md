@@ -24,6 +24,7 @@ I am currently super busy working as a Full Stack Software Engineer II at Neural
 - 📻 [F1PitWall](https://f1pitwall.vercel.app) - site hosting my transcriptions of F1 radio messages from the 2025 season
 - 👩‍🚀 [Captionaut](https://github.com/catherinepereira/captionaut) - automatic video captioning software 
 - 🚀 [airship.top](https://github.com/catherinepereira/airship-top) - player count tracker for the Airship platform
+- 🦦 [Otterwatch](https://github.com/catherinepereira/otterwatch) - live otter cam detection status board
 
 ---
 ### Utilities
