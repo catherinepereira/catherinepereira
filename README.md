@@ -13,7 +13,7 @@
 I am currently super busy working as a Full Stack Software Engineer II at Neural Earth and continuing my daily self-study of ML/AI, but I occasionally find time to update my projects here!
 
 ---
-### CV Projects
+### Projects
 - 🪷 [Yoga Mirror](https://yoga-mirror.vercel.app) - for-fun yoga pose estimation, video processing, and classification project
 - 🤖 [Sorty](https://github.com/catherinepereira/sorty) - dataset generation and cleaning tool with model training and LLM integration
 - 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game using CV-based data ingestion pipeline (CLIP, YOLO)
@@ -21,6 +21,9 @@ I am currently super busy working as a Full Stack Software Engineer II at Neural
 - 🌟 [Sign Cards](https://sign-cards.vercel.app) - ASL fingerspelling learning game
 - 🖍️ [airdraw](https://airdraw-cat.vercel.app) - MediaPipe digital whiteboard
 - 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
+- 📻 [F1PitWall](https://f1pitwall.vercel.app) - site hosting my transcriptions of F1 radio messages from the 2025 season
+- 👩‍🚀 [Captionaut](https://github.com/catherinepereira/captionaut) - automatic video captioning software 
+- 🚀 [airship.top](https://github.com/catherinepereira/airship-top) - player count tracker for the Airship platform
 
 ---
 ### Utilities
