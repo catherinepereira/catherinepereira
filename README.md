@@ -14,6 +14,7 @@ I am currently super busy working as a Full Stack Software Engineer II at Neural
 
 ---
 ### Projects
+- 🗺️ [The United Stats](https://united-stats.vercel.app) - US map that paints public statistics onto states and counties as stacking layers
 - 🪷 [Yoga Mirror](https://yoga-mirror.vercel.app) - for-fun yoga pose estimation, video processing, and classification project
 - 🤖 [Sorty](https://github.com/catherinepereira/sorty) - dataset generation and cleaning tool with model training and LLM integration
 - 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game using CV-based data ingestion pipeline (CLIP, YOLO)
