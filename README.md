@@ -27,7 +27,7 @@ I am currently super busy working as a Full Stack Software Engineer II at Neural
 - 🔍 [F1GuessrInterpret](https://interpret.f1guessr.com) - display of Grad-CAM heatmaps of a multi-head classification model for year and track predictions
 - 🌟 [Sign Cards](https://sign-cards.vercel.app) - ASL fingerspelling learning game
 - 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
-- 🦦 [Otterwatch](https://github.com/catherinepereira/otterwatch) - live YOLO otter cam detection status board
+- 🦦 [Otterwatch](https://otterwatch.vercel.app) - live YOLO otter cam detection status board
 
 ---
 ### Utilities
