@@ -13,39 +13,21 @@
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
----
-
-I am currently super busy working as a Full Stack Software Engineer II at Neural Earth and continuing my daily self-study of ML/AI, but I occasionally find time to update my projects here!
 
 ---
 ### Projects
-- 🚁 [Drone Minecraft Mod](https://github.com/catherinepereira/mc-drone) - minecraft drone mod and experimental project in autonomous drone training and piloting
+
+- 🧭 [Computer Vision Explorables](https://explorable.cv) - explorables explaining computer vision concepts with interactive demos
+- 🚁 [Quadcraft Minecraft Mod](https://github.com/catherinepereira/mc-drone) - minecraft drone mod and experimental project in autonomous drone training and piloting
 - 🗺️ [The United Stats](https://theunitedstats.com) - US map that paints public statistics onto states and counties as stacking layers
 - 🪷 [Yoga Mirror](https://yoga-mirror.vercel.app) - for-fun yoga pose estimation, video processing, and classification project
 - 🤖 [Sorty](https://github.com/catherinepereira/sorty) - dataset generation and cleaning tool with model training and LLM integration
+- 🦦 [Otterwatch](https://otterwatch.vercel.app) - live YOLO otter cam detection status board
 - 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game using CV-based data ingestion pipeline (CLIP, YOLO)
 - 🔍 [F1GuessrInterpret](https://interpret.f1guessr.com) - display of Grad-CAM heatmaps of a multi-head classification model for year and track predictions
 - 🌟 [Sign Cards](https://sign-cards.vercel.app) - ASL fingerspelling learning game
 - 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
-- 🦦 [Otterwatch](https://otterwatch.vercel.app) - live YOLO otter cam detection status board
-
----
-### Utilities
-
 - 📜 [DarkScrolls](https://github.com/catherinepereira/darkscrolls) - Chrome extension for blocking websites
-- ✉️ [cli-cards](https://cli-cards.vercel.app) - design terminal-style usage cards and export them as PNGs
-- 🧵 [stitchimg](https://stitchimg.vercel.app) - stitch together images vertically and download
-
----
-### Explorables at [explorable.cv](https://explorable.cv)
-- Main repo at [explorablecv-models](https://github.com/catherinepereira/explorablecv-models) 
-- 🖨️ [CNN Playground](https://explorable.cv/cnn-playground)
-- 🖼️ [CNN Visualizer](https://explorable.cv/cnn-visualizer)
-- 🕰️ [CNN Architecture Comparison](https://explorable.cv/cnn-architecture-comparison)
-- 🔬 [CV Interpretability Explorer](https://explorable.cv/cv-interpretability)
-- 👀 [ViT Playground](https://explorable.cv/vit-playground)
-- 🔍 [Object Detection Playground](https://explorable.cv/cv-detection-playground)
-- 🍎 [Segmentation Playground](https://explorable.cv/cv-segmentation-playground)
 
 --- 
 ### Packages
