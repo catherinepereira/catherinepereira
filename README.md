@@ -17,6 +17,7 @@
 ---
 ### Projects
 
+- 🛰️ [satguessr](https://huggingface.co/spaces/catpereira/satguessr) - similarity explorer and geolocation game over AlphaEarth satellite embeddings for the Lower 48
 - 🧭 [Computer Vision Explorables](https://explorable.cv) - explorables explaining computer vision concepts with interactive demos
 - 🚁 [Quadcraft Minecraft Mod](https://github.com/catherinepereira/mc-drone) - minecraft drone mod and experimental project in autonomous drone training and piloting
 - 🗺️ [The United Stats](https://theunitedstats.com) - US map that paints public statistics onto states and counties as stacking layers
@@ -32,4 +33,4 @@
 --- 
 ### Packages
 - 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) - CLI for plain-english prompt to LLM to web query for rapid dataset generation
-- 🛰️ [detstream](https://pypi.org/project/detstream/) - easy, modular configuration of live stream object detection
+- 🛩️ [detstream](https://pypi.org/project/detstream/) - easy, modular configuration of live stream object detection
