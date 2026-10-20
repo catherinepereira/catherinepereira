@@ -20,6 +20,7 @@
 - 🛰️ [satguessr](https://huggingface.co/spaces/catpereira/satguessr) - similarity explorer and geolocation game over AlphaEarth satellite embeddings for the Lower 48
 - 🧭 [Computer Vision Explorables](https://explorable.cv) - explorables explaining computer vision concepts with interactive demos
 - 🚁 [Quadcraft Minecraft Mod](https://github.com/catherinepereira/mc-drone) - minecraft drone mod and experimental project in autonomous drone training and piloting
+- 🎨 [Poorly Drawn Pokemon](https://poorlydrawnpkmn.vercel.app) - two-player game where the better Pokemon drawing from memory wins the battle
 - 🗺️ [The United Stats](https://theunitedstats.com) - US map that paints public statistics onto states and counties as stacking layers
 - 🪷 [Yoga Mirror](https://yoga-mirror.vercel.app) - for-fun yoga pose estimation, video processing, and classification project
 - 🤖 [Sorty](https://github.com/catherinepereira/sorty) - dataset generation and cleaning tool with model training and LLM integration
