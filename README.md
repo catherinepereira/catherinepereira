@@ -15,23 +15,7 @@
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
 
 ---
-### Projects
 
-- 🛰️ [satguessr](https://huggingface.co/spaces/catpereira/satguessr) - similarity explorer and geolocation game over AlphaEarth satellite embeddings for the Lower 48
-- 🧭 [Computer Vision Explorables](https://explorable.cv) - explorables explaining computer vision concepts with interactive demos
-- 🚁 [Quadcraft Minecraft Mod](https://github.com/catherinepereira/mc-drone) - minecraft drone mod and experimental project in autonomous drone training and piloting
-- 🎨 [Poorly Drawn Pokemon](https://poorlydrawnpkmn.vercel.app) - two-player game where the better Pokemon drawing from memory wins the battle
-- 🗺️ [The United Stats](https://theunitedstats.com) - US map that paints public statistics onto states and counties as stacking layers
-- 🪷 [Yoga Mirror](https://reflect.cv/yoga-mirror/) - for-fun yoga pose estimation, video processing, and classification project
-- 🤖 [Sorty](https://github.com/catherinepereira/sorty) - dataset generation and cleaning tool with model training and LLM integration
-- 🦦 [Otterwatch](https://reflect.cv/otterwatch/) - live YOLO otter cam detection status board
-- 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game using CV-based data ingestion pipeline (CLIP, YOLO)
-- 🔍 [F1GuessrInterpret](https://interpret.f1guessr.com) - display of Grad-CAM heatmaps of a multi-head classification model for year and track predictions
-- 🌟 [Sign Cards](https://reflect.cv/sign-cards/) - ASL fingerspelling learning game
-- 🤟 [OpenHand](https://reflect.cv/openhand/) - ASL computer vision model training and inference on live video feed
-- 📜 [DarkScrolls](https://github.com/catherinepereira/darkscrolls) - Chrome extension for blocking websites
+🌈 Find all of my computer vision projects at [reflect.cv](https://reflect.cv)
 
---- 
-### Packages
-- 💬 [prompt2dataset](https://pypi.org/project/prompt2dataset/) - CLI for plain-english prompt to LLM to web query for rapid dataset generation
-- 🛩️ [detstream](https://pypi.org/project/detstream/) - easy, modular configuration of live stream object detection
+🧭 Learn about how they work through my [Computer Vision Explorables](https://explorable.cv)
