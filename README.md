@@ -22,13 +22,13 @@
 - 🚁 [Quadcraft Minecraft Mod](https://github.com/catherinepereira/mc-drone) - minecraft drone mod and experimental project in autonomous drone training and piloting
 - 🎨 [Poorly Drawn Pokemon](https://poorlydrawnpkmn.vercel.app) - two-player game where the better Pokemon drawing from memory wins the battle
 - 🗺️ [The United Stats](https://theunitedstats.com) - US map that paints public statistics onto states and counties as stacking layers
-- 🪷 [Yoga Mirror](https://yoga-mirror.vercel.app) - for-fun yoga pose estimation, video processing, and classification project
+- 🪷 [Yoga Mirror](https://reflect.cv/yoga-mirror/) - for-fun yoga pose estimation, video processing, and classification project
 - 🤖 [Sorty](https://github.com/catherinepereira/sorty) - dataset generation and cleaning tool with model training and LLM integration
-- 🦦 [Otterwatch](https://otterwatch.vercel.app) - live YOLO otter cam detection status board
+- 🦦 [Otterwatch](https://reflect.cv/otterwatch/) - live YOLO otter cam detection status board
 - 🏎️ [F1Guessr](https://f1guessr.com) - f1-themed geoguessing game using CV-based data ingestion pipeline (CLIP, YOLO)
 - 🔍 [F1GuessrInterpret](https://interpret.f1guessr.com) - display of Grad-CAM heatmaps of a multi-head classification model for year and track predictions
-- 🌟 [Sign Cards](https://sign-cards.vercel.app) - ASL fingerspelling learning game
-- 🤟 [OpenHand](https://openhand-asl.vercel.app) - ASL computer vision model training and inference on live video feed
+- 🌟 [Sign Cards](https://reflect.cv/sign-cards/) - ASL fingerspelling learning game
+- 🤟 [OpenHand](https://reflect.cv/openhand/) - ASL computer vision model training and inference on live video feed
 - 📜 [DarkScrolls](https://github.com/catherinepereira/darkscrolls) - Chrome extension for blocking websites
 
 --- 
